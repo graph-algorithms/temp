@@ -1,3 +1,3 @@
 # temp
 
-This is a temporary project that will soon be deleted.
+This is a temporary project that will be deleted soon.
